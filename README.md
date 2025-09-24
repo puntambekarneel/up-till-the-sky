@@ -1,2 +1,3 @@
 a fun orignal game i create when i was 14, a story of a blocky character who was on a Parkour training mission fighting other blocky characters and the programing bugs in this game <img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/0c18ce08-b84e-4627-9fb4-9a07d7433763" />
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/cc1a0bad-4c31-40fd-91b0-021819eb00e2" />
+play here https://puntambekarneel.github.io/up-till-the-sky/
